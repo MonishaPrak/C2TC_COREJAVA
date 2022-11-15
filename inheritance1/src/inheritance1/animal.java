@@ -1,0 +1,6 @@
+ class animal{
+	void eat()
+	{
+		
+	}
+  }
